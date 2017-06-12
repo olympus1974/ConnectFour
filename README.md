@@ -11,4 +11,7 @@ There are two players, Player1 and Player2. It is a 7 x 6 grid. Each player drop
 The point of the game is to get 4 chips in a row (hence the name), either vertically, horizontally, or diagonally.
 Good luck and have fun.
 
-**ConnectFour.zip**
+**Connect-Four.zip**
+ - This file has the .jar file for the game. It requires the folder labeled images to run.
+ 
+This program was made possible by the amazing open source community, Eclipse
