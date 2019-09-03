@@ -13,5 +13,3 @@ Good luck and have fun.
 
 **Connect-Four.zip**
  - This file has the .jar file for the game. It requires the folder labeled images to run.
- 
-This program was made possible by the amazing open source community, Eclipse
