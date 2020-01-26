@@ -5,7 +5,7 @@ import javafx.scene.image.ImageView;
 import javafx.scene.layout.GridPane;
 @SuppressWarnings("all")
 public class GameHandler {
-	
+	//add test comment
 	public GridPane gameboard;
 	public int[][] solutionArray= new int[6][7];
 				
